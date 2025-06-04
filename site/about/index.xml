@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ресурсы ::  </title>
+    <link>https://example.com/about/index.html</link>
+    <description>Ресурсы и дополнительные ссылки</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://example.com/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
