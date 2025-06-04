@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Журнал ::  </title>
+    <link>https://example.com/log/index.html</link>
+    <description>Журнал проекта</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://example.com/log/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Запись 1</title>
+      <link>https://example.com/log/first-day/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/log/first-day/index.html</guid>
+      <description>Результаты анализа целевой аудитории</description>
+    </item>
+    <item>
+      <title>Запись 2</title>
+      <link>https://example.com/log/second-day/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/log/second-day/index.html</guid>
+      <description>Предоставление основных механик</description>
+    </item>
+    <item>
+      <title>Запись 3</title>
+      <link>https://example.com/log/third-day/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/log/third-day/index.html</guid>
+      <description>Island Arrival</description>
+    </item>
+  </channel>
+</rss>
